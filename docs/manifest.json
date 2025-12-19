@@ -1,1 +1,17 @@
+{
+  "updated": "2025-12-19",
+  "root": {
+    "toc": "https://raw.githubusercontent.com/<GalsMedia>/<Nova-Library>/main/docs/toc.md",
+    "index": "https://raw.githubusercontent.com/<GalsMedia>/<Nova-Library>/main/docs/index.md"
+  },
+  "entries": [
+    {
+      "handle": "OPS_BOARD",
+      "title": "Nexus Ops Board",
+      "type": "md",
+      "updated": "",
+      "url": ""
+    }
+  ]
+}
 
